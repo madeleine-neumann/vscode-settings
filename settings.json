@@ -16,16 +16,16 @@
   "editor.cursorBlinking": "expand",
   "editor.cursorStyle": "line",
   "editor.renderIndentGuides": true,
-  
+
   "emmet.syntaxProfiles": {
     "HTML (Eex)": "html"
     },
-    
+
   "workbench.activityBar.visible": true,
   "workbench.iconTheme": "vscode-icons",
   "extensions.autoUpdate": true,
   "workbench.colorTheme": "Visual Studio Dark",
-  
+
   "workbench.colorCustomizations": {
       "activityBar.background": "#000000",
       "contrastBorder": "#000000",
@@ -39,6 +39,7 @@
       "input.background": "#000000",
       "input.border": "#151515",
       "editorGroupHeader.tabsBackground": "#000000",
-      "editorGroupHeader.tabsBorder": "#151515"  
+      "editorGroupHeader.tabsBorder": "#151515",
+      "editor.lineHighlightBorder": "#000000"
   }
 }
