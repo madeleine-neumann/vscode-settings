@@ -28,10 +28,11 @@
 
   "workbench.colorCustomizations": {
       "activityBar.background": "#000000",
-      "contrastBorder": "#000000",
+      "contrastBorder": "#151515",
       "foreground": "#ffffff",
       "sideBar.background": "#000000",
       "editorGroup.background": "#000000",
+      "editorGroup.border": "#151515",
       "editor.background": "#000000",
       "list.activeSelectionBackground": "#000000",
       "tab.inactiveBackground": "#000000",
@@ -40,6 +41,14 @@
       "input.border": "#151515",
       "editorGroupHeader.tabsBackground": "#000000",
       "editorGroupHeader.tabsBorder": "#151515",
-      "editor.lineHighlightBorder": "#000000"
+      "editor.lineHighlightBorder": "#000000",
+      "editor.lineHighlightBackground": "#151515",
+      "editor.findMatchBackground": "#2654a3",
+      "editor.findMatchHighlightBackground": "#2654a3",
+      "editorBracketMatch.border": "#ff3131",
+      "editorOverviewRuler.border": "#151515",
+      "panel.border": "#151515",
+      "statusBar.border": "#151515",
+      "titleBar.activeBackground": "#000000"
   }
 }
