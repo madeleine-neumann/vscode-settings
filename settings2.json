@@ -27,6 +27,8 @@
     "editor.trimAutoWhitespace": true,
     "editor.folding": false,
     "editor.autoClosingBrackets": true,
+    "editor.minimap.enabled": false,
+
 
 
     "emmet.syntaxProfiles": {
