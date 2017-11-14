@@ -1,0 +1,39 @@
+{
+    "editor.fontFamily": "Monaco",
+    "editor.wrappingIndent": "indent",
+    "editor.wordWrap": "on",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.glyphMargin": false,
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "onFocusChange",
+    "explorer.openEditors.visible": 0,
+    "editor.formatOnType": true,
+    "window.zoomLevel": 1,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.renderIndentGuides": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "monokai-best",
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.autoReload": true,
+    "vsicons.projectDetection.disableDetect": true,
+    "window.nativeTabs": true,
+    "extensions.autoUpdate": true,
+    "editor.fontSize": 12,
+    "editor.trimAutoWhitespace": true,
+    "editor.folding": false,
+    "editor.autoClosingBrackets": true,
+
+
+    "emmet.syntaxProfiles": {
+      "HTML (Eex)": "html"
+    },
+
+    "workbench.activityBar.visible": true,
+    "explorer.decorations.badges": false
+  }
+
