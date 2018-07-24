@@ -1,0 +1,45 @@
+{
+  "editor.fontFamily": "Operator Mono",
+  "editor.fontSize": 14,
+  "editor.wrappingIndent": "indent",
+  "editor.wordWrap": "on",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.glyphMargin": false,
+  "files.trimTrailingWhitespace": true,
+  "files.autoSave": "onFocusChange",
+  "explorer.openEditors.visible": 0,
+  "editor.formatOnType": true,
+  "window.zoomLevel": 1,
+  "terminal.integrated.cursorBlinking": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
+  "editor.renderIndentGuides": true,
+  "workbench.iconTheme": "eq-material-theme-icons-darker",
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "vsicons.dontShowNewVersionMessage": true,
+  "vsicons.projectDetection.autoReload": true,
+  "vsicons.projectDetection.disableDetect": true,
+  "window.nativeTabs": true,
+  "extensions.autoUpdate": true,
+  "editor.trimAutoWhitespace": true,
+  "editor.folding": false,
+  "editor.autoClosingBrackets": true,
+  "editor.minimap.enabled": false,
+
+  "emmet.syntaxProfiles": {
+    "HTML (Eex)": "html"
+  },
+
+  "workbench.activityBar.visible": true,
+  "explorer.decorations.badges": false,
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true,
+  "materialTheme.fixIconsRunning": false
+}
